@@ -1,7 +1,7 @@
 ### Languages and Tools:
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true" alt="ddgksf2013" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true" alt="ddgksf2013" /></p>  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddgksf2013&layout=compact&hide=html" alt="ddgksf2013" /></p>  
 
 
 <!--
