@@ -1,4 +1,4 @@
-### Hi there 👋
+### Languages and Tools:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddgksf2013&layout=compact&hide=html" alt="ddgksf2013" /></p>
