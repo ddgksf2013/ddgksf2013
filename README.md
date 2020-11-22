@@ -3,7 +3,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true" alt="ddgksf2013" /></p>
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=ddgksf2013.ddgksf2013)  
 <!--
 **ddgksf2013/ddgksf2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
