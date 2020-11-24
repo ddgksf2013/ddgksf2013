@@ -3,6 +3,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true" alt="ddgksf2013" /></p>  
 
+<p align="left"><div><img alt="ween-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ddgksf2013&hide_border=true&custom_title=Week%20Stats" /></div></p>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=ddgksf2013.ddgksf2013)  
 
 <!--
