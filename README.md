@@ -3,8 +3,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true" alt="ddgksf2013" /></p>  
 
-[![墨鱼手记's github stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=ddgksf2013.ddgksf2013)  
 
 <!--
