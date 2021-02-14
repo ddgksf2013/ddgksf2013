@@ -2,8 +2,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ddgksf2013.ddgksf2013)  
 
-# Visitor Count
-<img src="https://profile-counter.glitch.me/ddgksf2013/count.svg" />
 <!--
 **ddgksf2013/ddgksf2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
