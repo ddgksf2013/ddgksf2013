@@ -1,5 +1,6 @@
 ### Hi 👋 Welcome to my Github page !✨
 
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ddgksf2013)](https://github.com/ddgksf2013)
 ![](https://visitor-badge.glitch.me/badge?page_id=ddgksf2013.ddgksf2013)  
 
 <!--
