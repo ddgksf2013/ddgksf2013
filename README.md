@@ -79,16 +79,16 @@
 		<td > 12 </td> <td > 小红书去广告</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 13 </td> <td > Keep超级净化</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/main/keepStyle.js"><em>keepStyle.js</em></a></td><td>ddgksf2013</td>  
+		<td > 13 </td> <td > Keep超级净化</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/keepStyle.js"><em>keepStyle.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 14 </td> <td > 酷安去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/main/coolapk.js"><em>coolapk.js</em></a></td><td>ddgksf2013</td>  
+		<td > 14 </td> <td > 酷安去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/coolapk.js"><em>coolapk.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 15 </td> <td > 阿里云盘首页优化</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/main/alidrive.js"><em>alidrive.js</em></a></td><td>ddgksf2013</td>  
+		<td > 15 </td> <td > 阿里云盘首页优化</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/alidrive.js"><em>alidrive.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 16 </td> <td > 12306去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/main/12306.js"><em>12306.js</em></a></td><td>ddgksf2013</td>  
+		<td > 16 </td> <td > 12306去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/12306.js"><em>12306.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
@@ -135,7 +135,7 @@
 		<td > 3 </td> <td > <strong><em>Safari超级搜索V2.0</em></strong><br>翻译·社区·购物·换区·视频·引擎  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Q-Search.conf"><em>Q-Search.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > <strong><em>豆瓣电影<br>网页优化+快捷观影</em></strong>  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Douban.conf"><em>Douban.conf</em></a></td><td>ddgksf2013</td>
+		<td > 4 </td> <td > <strong>豆瓣电影<br><em>网页优化+快捷观影</em></strong>  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Douban.conf"><em>Douban.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 </table>
 
