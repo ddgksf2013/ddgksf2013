@@ -160,7 +160,7 @@
 * 自用Clash配置 [*Config.yaml*](https://github.com/ddgksf2013/Profile/raw/master/Config.yaml)
 * 1080P超清IPTV国内[***直播源***](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html)
-* [***自用优秀Web网站合集***](https://github.com/ddgksf2013/Cuttlefish/tree/master/Html)：影视、工具、下载、阅读、Porn...
+* [***自用优秀Web网站合集***](https://github.com/ddgksf2013/WebSite)：影视、工具、下载、阅读、Porn...
 
 
 ## 7️⃣Telegram 通知频道：
