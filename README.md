@@ -29,29 +29,20 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
-		<td rowspan="6"><strong>会员解锁</strong></td>
+		<td rowspan="3"><strong>会员解锁</strong></td>
 		<td > 1 </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
-    </tr>
-	<tr>
-		<td > 2 </td> <td > 酷我音乐超级VIP </td> <td ><a href="https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/UnlockVip/Kuwo.conf"><em>KuwoVIP.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
-		<td > 3 </td> <td > 人人视频会员 </td> <td ><a href="https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/UnlockVip/Rrtv.conf"><em>RrtvVip.conf</em></a></td><td>ddgksf2013</td>
+		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
-    </tr>
-	<tr>
-		<td > 5 </td> <td > <strong><em>墨鱼QX专属VIP</em></strong><br>请自行添加Hostname </td> <td ><a href="https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/UnlockApp.conf"><em>UnlockApp.conf</em></a></td><td>ddgksf2013</td>
-    </tr>
-	<tr>
-		<td > 6 </td> <td > ForOwnUseVip </td> <td ><a href="https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
+		<td > 3 </td> <td > <strong><em>墨鱼QX专属VIP</em></strong><br>请自行添加Hostname </td> <td ><a href="https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/ForOwnUse.conf"><em>UnlockApp.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="11"><strong>广告屏蔽</strong></td>
+		<td rowspan="16"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告神器 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -85,10 +76,25 @@
 		<td > 11 </td> <td > 微博国际版去广告</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeiboLite.conf"><em>WeiboLite.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
+		<td > 12 </td> <td > 小红书去广告</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+	<tr>
+		<td > 13 </td> <td > Keep超级净化</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/main/keepStyle.js"><em>keepStyle.js</em></a></td><td>ddgksf2013</td>  
+    </tr>
+	<tr>
+		<td > 14 </td> <td > 酷安去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/main/coolapk.js"><em>coolapk.js</em></a></td><td>ddgksf2013</td>  
+    </tr>
+	<tr>
+		<td > 15 </td> <td > 阿里云盘首页优化</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/main/alidrive.js"><em>alidrive.js</em></a></td><td>ddgksf2013</td>  
+    </tr>
+	<tr>
+		<td > 16 </td> <td > 12306去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/main/12306.js"><em>12306.js</em></a></td><td>ddgksf2013</td>  
+    </tr>
+	<tr>
 		<td colspan="5">  </td>
     </tr>
 	<tr>
-		<td rowspan="8"><strong>应用增强</strong></td>
+		<td rowspan="9"><strong>应用增强</strong></td>
 		<td > 1 </td> <td > B站自动换区 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></td><td>Nobyda</td>
     </tr>
 	<tr>
@@ -113,6 +119,9 @@
 		<td > 8 </td> <td > Testflight共享+解锁区域限制 </td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js"><em>TestFlightAccount.conf</em></a></td><td>NobyDa</td>
     </tr>
 	<tr>
+		<td > 9 </td> <td > UposRedirect </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/UposRedirect.conf"><em>UposRedirect.conf</em></a></td><td>NobyDa</td>
+    </tr>
+	<tr>
 		<td colspan="5">  </td>
     </tr>
 	<tr>
@@ -124,6 +133,9 @@
     </tr>
 	<tr>
 		<td > 3 </td> <td > <strong><em>Safari超级搜索V2.0</em></strong><br>翻译·社区·购物·换区·视频·引擎  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Q-Search.conf"><em>Q-Search.conf</em></a></td><td>ddgksf2013</td>
+    </tr>
+	<tr>
+		<td > 4 </td> <td > <strong><em>豆瓣电影<br>网页优化+快捷观影</em></strong>  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Douban.conf"><em>Douban.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 </table>
 
