@@ -29,14 +29,11 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
-		<td rowspan="3"><strong>会员解锁</strong></td>
+		<td rowspan="2"><strong>会员解锁</strong></td>
 		<td > 1 </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
 		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
-    </tr>
-	<tr>
-		<td > 3 </td> <td > <strong><em>墨鱼QX专属VIP</em></strong> </td> <td ><a href="https://share.weiyun.com/FZ8HKVvM"><em>UnlockApp.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
