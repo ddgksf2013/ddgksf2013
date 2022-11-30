@@ -36,7 +36,7 @@
 		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
     </tr>
 	<tr>
-		<td > 3 </td> <td > <strong><em>墨鱼QX专属VIP</em></strong><br>请自行添加Hostname </td> <td ><a href="https://github.com/ddgksf2013/Cuttlefish/raw/master/Rewrite/ForOwnUse.conf"><em>UnlockApp.conf</em></a></td><td>ddgksf2013</td>
+		<td > 3 </td> <td > <strong><em>墨鱼QX专属VIP</em></strong> </td> <td ><a href="https://share.weiyun.com/FZ8HKVvM"><em>UnlockApp.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
