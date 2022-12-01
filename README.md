@@ -132,7 +132,7 @@
 		<td > 3 </td> <td > <strong><em>Safari超级搜索V2.0</em></strong><br>翻译·社区·购物·换区·视频·引擎  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Q-Search.conf"><em>Q-Search.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > <strong>豆瓣电影<br><em>网页优化+快捷观影</em></strong>  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Douban.conf"><em>Douban.conf</em></a></td><td>ddgksf2013</td>
+		<td > 4 </td> <td > 豆瓣电影<br><strong><em>网页优化+快捷观影</em></strong>  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Douban.conf"><em>Douban.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 </table>
 
