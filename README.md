@@ -91,7 +91,7 @@
 		<td colspan="5">  </td>
     </tr>
 	<tr>
-		<td rowspan="9"><strong>应用增强</strong></td>
+		<td rowspan="10"><strong>应用增强</strong></td>
 		<td > 1 </td> <td > B站自动换区 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></td><td>Nobyda</td>
     </tr>
 	<tr>
@@ -117,6 +117,9 @@
     </tr>
 	<tr>
 		<td > 9 </td> <td > UposRedirect </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/UposRedirect.conf"><em>UposRedirect.conf</em></a></td><td>ddgksf2013</td>
+    </tr>
+	<tr>
+		<td > 10 </td> <td > FileBall挂载Alist与阿里云盘 </td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/ali.js"><em>ali.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
