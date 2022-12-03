@@ -40,7 +40,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="16"><strong>广告屏蔽</strong></td>
+		<td rowspan="17"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -87,6 +87,9 @@
     </tr>
 	<tr>
 		<td > 16 </td> <td > <strong>12306去广告</strong></td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/12306.js"><em>12306.js</em></a></td><td>ddgksf2013</td>  
+    </tr>
+    <tr>
+		<td > 17 </td> <td > Pixiv去广告 </td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/pixivAds.js"><em>PixivAds.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
