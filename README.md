@@ -98,7 +98,7 @@
 		<td > 17 </td> <td > <strong>Pixiv去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/pixivAds.js"><em>PixivAds.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 18 </td> <td > <strong>多多视频去广告 </strong></td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/rrtv_json.js"><em>DuoduoVideoAds.js</em></a></td><td>ddgksf2013</td>  
+		<td > 18 </td> <td > 多多视频去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/rrtv_json.js"><em>DuoduoVideoAds.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
