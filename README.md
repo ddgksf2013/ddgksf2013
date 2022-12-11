@@ -40,7 +40,7 @@
 		<td > 3 </td> <td > 墨鱼专属VIP </td> <td ><a href="https://gist.githubusercontent.com/ddgksf/35a94372ae4271562f0139d8a80a94e5/raw/ForOwnUse.snippet"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > 酷我音乐SVIP </td> <td ><a href="https://pan.quark.cn/s/a3a276f0f1f0"><em>KuWoMusicProCrack.js</em></a></td><td>ddgksf2013</td>
+		<td > 4 </td> <td > 酷我音乐SVIP </td> <td ><a href="https://pan.quark.cn/s/a3a276f0f1f0"><em>KuWoMusicSVIP.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
