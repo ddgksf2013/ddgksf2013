@@ -59,7 +59,7 @@
 		<td > 4 </td> <td > 公众号图文去广告<br><strong><em>无法去除朋友圈AD</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 5 </td> <td > 微博(国际版)去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>zmqcherish</td>  
+		<td > 5 </td> <td > 微博(国际版)去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 6 </td> <td > 知乎去广告 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu_plus.qxrewrite"><em>Zhihu_Plus.conf</em></a></td><td>blackmatrix7</td>  
