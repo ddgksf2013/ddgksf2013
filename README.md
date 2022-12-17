@@ -30,7 +30,7 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
-		<td rowspan="4"><strong>会员解锁</strong></td>
+		<td rowspan="3"><strong>会员解锁</strong></td>
 		<td > 1 </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
@@ -38,9 +38,6 @@
     </tr>
 	<tr>
 		<td > 3 </td> <td > 墨鱼专属VIP </td> <td ><a href="https://gist.githubusercontent.com/ddgksf/35a94372ae4271562f0139d8a80a94e5/raw/ForOwnUse.snippet"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
-    </tr>
-	<tr>
-		<td > 4 </td> <td > 酷我音乐SVIP </td> <td ><a href="https://pan.quark.cn/s/a3a276f0f1f0"><em>KuWoMusic.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
