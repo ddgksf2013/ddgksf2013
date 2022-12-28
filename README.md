@@ -136,13 +136,13 @@
 		<td > 1 </td> <td > 自用影视网站去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/WebAdBlock.conf"><em>WebAdBlock.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 2 </td> <td > Google自动翻页 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EndlessGoogle.conf"><em>EndlessGoogle.conf</em></a></td><td>langkhach</td>
+		<td > 2 </td> <td > Google自动翻页 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/EndlessGoogle.conf"><em>EndlessGoogle.conf</em></a></td><td>langkhach</td>
     </tr>
 	<tr>
-		<td > 3 </td> <td > <strong><em>Safari超级搜索V2.0</em></strong><br>翻译·社区·购物·换区·视频·引擎  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Q-Search.conf"><em>Q-Search.conf</em></a></td><td>ddgksf2013</td>
+		<td > 3 </td> <td > <strong><em>Safari超级搜索V2.0</em></strong><br>翻译·社区·购物·换区·视频·引擎  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/Q-Search.conf"><em>Q-Search.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > 豆瓣电影<br><strong><em>网页优化+快捷观影</em></strong>  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Douban.conf"><em>Douban.conf</em></a></td><td>ddgksf2013</td>
+		<td > 4 </td> <td > 豆瓣电影<br><strong><em>网页优化+快捷观影</em></strong>  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/Douban.conf"><em>Douban.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 </table>
 
