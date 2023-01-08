@@ -37,7 +37,7 @@
 		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
     </tr>
 	<tr>
-		<td > 3 </td> <td > 墨鱼专属VIP </td> <td ><a href="https://gist.githubusercontent.com/ddgksf/35a94372ae4271562f0139d8a80a94e5/raw/ForOwnUse.snippet"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
+		<td > 3 </td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
