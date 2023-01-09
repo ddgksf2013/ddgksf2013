@@ -4,6 +4,7 @@
 [![Commit](https://img.shields.io/github/commit-activity/m/ddgksf2013/ddgksf2013?label=Commits)](https://github.com/ddgksf2013/ddgksf2013/commits/master)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ddgksf2021)
 [![Issues](https://img.shields.io/github/issues/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013/ddgksf2013/issues)
+[![](https://img.shields.io/github/last-commit/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013)
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 ## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）Update on 2023-01-09
