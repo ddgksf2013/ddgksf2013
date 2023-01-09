@@ -6,7 +6,7 @@
 [![Issues](https://img.shields.io/github/issues/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013/ddgksf2013/issues)
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
-## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）
+## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）Update on 2023-01-09
 [![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)](https://github.com/ddgksf2013/ddgksf2013)
 
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
@@ -95,7 +95,7 @@
 		<td > 17 </td> <td > <strong>微博(国际版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 18 </td> <td > 高德地图净化[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/amap.js"><em>amap.js</em></a></td><td>ddgksf2013</td>  
+		<td > 18 </td> <td > 高德地图净化[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf"><em>Amap.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
