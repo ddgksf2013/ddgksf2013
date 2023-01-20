@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/last-commit/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013)
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
-## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）[Update on 2023-01-14]()
+## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）[Update on 2023-01-20]()
 [![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)](https://github.com/ddgksf2013/ddgksf2013)
 
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
@@ -31,7 +31,7 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
-		<td rowspan="3"><strong>会员解锁</strong></td>
+		<td rowspan="4"><strong>会员解锁</strong></td>
 		<td > 1 </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
@@ -39,6 +39,9 @@
     </tr>
 	<tr>
 		<td > 3 </td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
+    </tr>
+	<tr>
+		<td > 3 </td> <td > 酷我音乐净化+SVIP </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
