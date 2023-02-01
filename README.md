@@ -47,7 +47,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="18"><strong>广告屏蔽</strong></td>
+		<td rowspan="19"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -100,6 +100,9 @@
     </tr>
 	<tr>
 		<td > 18 </td> <td > 高德地图净化[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf"><em>Amap.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+	<tr>
+		<td > 19 </td> <td > 网易云净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Netease.conf"><em>Netease.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
