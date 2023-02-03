@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/last-commit/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013)
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
-## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）[Update on 2023-02-01]()
+## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）[Update on 2023-02-03]()
 [![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)](https://github.com/ddgksf2013/ddgksf2013)
 
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
@@ -47,7 +47,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="19"><strong>广告屏蔽</strong></td>
+		<td rowspan="20"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -103,6 +103,9 @@
     </tr>
 	<tr>
 		<td > 19 </td> <td > 网易云净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Netease.conf"><em>Netease.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+	<tr>
+		<td > 20 </td> <td > 菜鸟裹裹净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
