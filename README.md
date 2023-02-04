@@ -54,7 +54,7 @@
 		<td > 2 </td> <td > 墨鱼去开屏2.0 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/StartUp.conf"><em>StartUp.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
-		<td > 3 </td> <td > 油管广告屏蔽 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  
+		<td > 3 </td> <td > 油管广告屏蔽<br>视频自动PIP+背景播放 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  
     </tr>
 	<tr>
 		<td > 4 </td> <td > 公众号图文去广告<br><strong><em>无法去除朋友圈AD</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></td><td>ddgksf2013</td>
