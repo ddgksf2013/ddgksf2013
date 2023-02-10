@@ -50,7 +50,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="20"><strong>广告屏蔽</strong></td>
+		<td rowspan="21"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -109,6 +109,9 @@
     </tr>
 	<tr>
 		<td > 20 </td> <td > 菜鸟裹裹净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+	<tr>
+		<td > 21 </td> <td > 起点去广告[卸载重装] </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
