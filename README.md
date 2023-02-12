@@ -8,7 +8,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）[Update on 2023-02-10](https://github.com/ddgksf2013/ddgksf2013)  
+## 墨魚手記（[自用](https://github.com/ddgksf2013/Icon/blob/master/wechat.jpg "感谢赞助")）[Update on 2023-02-12](https://github.com/ddgksf2013/ddgksf2013)  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
@@ -28,7 +28,7 @@
 * 自用影视广告屏蔽 [*Mybreak.list*](https://github.com/ddgksf2013/Filter/raw/master/Mybreak.list)
 * IP隐藏の分流 [*Anti-ip.list*](https://github.com/ddgksf2013/Filter/raw/master/anti-ip-attribution.list)
 * Emby分流 [*Emby.list*](https://github.com/ddgksf2013/Filter/blob/master/Emby.list)
-> 更多的分流请参考 [*@DivineEngine*](https://github.com/DivineEngine) 提供的 [***Quantumult X 分流***](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter)
+> 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## 3️⃣QuantumultX 复写：
 <table>
