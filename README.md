@@ -26,7 +26,7 @@
 ## 2️⃣QuantumultX 分流：
 * 网易云音乐分流 [*NeteaseMusic.list*](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list)
 * 自用影视广告屏蔽 [*Mybreak.list*](https://github.com/ddgksf2013/Filter/raw/master/Mybreak.list)
-* IP隐藏の分流 [*Anti-ip.list*](https://github.com/ddgksf2013/Filter/raw/master/anti-ip-attribution.list)
+* IP隐藏の分流[不建议使用] [*Anti-ip.list*](https://github.com/ddgksf2013/Filter/raw/master/anti-ip-attribution.list)
 * Emby分流 [*Emby.list*](https://github.com/ddgksf2013/Filter/blob/master/Emby.list)
 > 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
