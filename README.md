@@ -8,7 +8,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢赞助")）[Update on 2023-02-16](https://github.com/ddgksf2013/ddgksf2013)  
+## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-02-16](https://github.com/ddgksf2013/ddgksf2013)  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
