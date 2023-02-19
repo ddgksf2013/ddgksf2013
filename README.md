@@ -8,7 +8,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-02-16](https://github.com/ddgksf2013/ddgksf2013)  
+## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-02-19](https://github.com/ddgksf2013/ddgksf2013)  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
@@ -16,7 +16,7 @@
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
 
 ## 1️⃣QuantumultX 小白2.0配置：
-* 配置更新时间：2023-01-08
+* 配置更新时间：2023-02-01
 * 墨鱼自用QX配置 [***Cuttlefish.conf***](https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf) 
 * 上述配置支持QX商店最新版，包括图标库订阅、超级VIP、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、什么值得买知乎去广告...
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://ghproxy.com/```
@@ -44,7 +44,7 @@
 		<td > 3 </td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > 酷我音乐SVIP+净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td>
+		<td > 4 </td> <td > 酷我纯净版SVIP+净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
