@@ -8,7 +8,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-02-19](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-02-20](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
@@ -99,13 +99,13 @@
 		<td > 16 </td> <td > <strong>微博(国际版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 17 </td> <td > 高德地图净化[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf"><em>Amap.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 17 </td> <td > 高德地图去广告[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf"><em>Amap.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 18 </td> <td > 网易云净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Netease.conf"><em>Netease.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 18 </td> <td > 网易云去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Netease.conf"><em>Netease.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 19 </td> <td > 菜鸟裹裹净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 19 </td> <td > 菜鸟裹裹去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 20 </td> <td > 起点去广告[卸载重装] </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  
