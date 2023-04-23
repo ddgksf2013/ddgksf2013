@@ -164,7 +164,7 @@
 		<td > 4 </td> <td > 豆瓣电影<br><strong><em>网页优化+快捷观影</em></strong>  </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/Douban.conf"><em>Douban.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 5 </td> <td > 解锁NewBing搜索 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/NewBing.conf"><em>NewBing.conf</em></a></td><td>ddgksf2013</td>
+		<td > 5 </td> <td > 解锁NewBing搜索 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/NewBing.conf"><em>NewBing.conf</em></a></td><td>Nobyda<br>ddgksf2013</td>
     </tr>
 </table>
 
