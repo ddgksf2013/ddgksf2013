@@ -8,7 +8,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-04-23](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-04-24](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
@@ -50,7 +50,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="21"><strong>广告屏蔽</strong></td>
+		<td rowspan="22"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -112,6 +112,9 @@
     </tr>
 	<tr>
 		<td > 21 </td> <td > Bing首页简化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/BingSimplify.conf"><em>BingSimplify.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+	<tr>
+		<td > 22 </td> <td ><strong> 优酷净化</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/5b431857f8b88acbc7ac2453a21e676a/raw/youku.adblock.js"><em>youku.adblock.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
