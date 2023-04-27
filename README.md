@@ -8,7 +8,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-04-24](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-04-27](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
@@ -44,7 +44,7 @@
 		<td > 3 </td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > 酷我音乐SVIP+净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td>
+		<td > 4 </td> <td > 酷我纯净版SVIP+净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
