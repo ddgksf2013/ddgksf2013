@@ -9,7 +9,7 @@
 
 
 ## 墨魚手記（[赞助](https://github.com/ddgksf2013/Rewrite/blob/master/README.md "感谢打赏")）[Update on 2023-05-10](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
-### 通知频道👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
+### 通知頻道👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
