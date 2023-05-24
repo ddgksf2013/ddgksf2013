@@ -8,7 +8,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-05-19](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-05-24](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2)  
 ### Telegram 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -51,7 +51,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="23"><strong>广告屏蔽</strong></td>
+		<td rowspan="24"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -119,6 +119,9 @@
     </tr>
     <tr>
 		<td > 23 </td> <td > 百度地图净化[卸载重装] </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf"><em>baidumap.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+<tr>
+		<td > 24 </td> <td > 皮皮虾去广告 </td> <td ><a href="https://raw.githubusercontent.com/Liquor030/Sub_Ruleset/master/Module/Super_Ad.sgmodule"><em>SuperAd.sgmodule</em></a></td><td>Liquor030</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
