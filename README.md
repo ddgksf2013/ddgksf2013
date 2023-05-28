@@ -9,7 +9,7 @@
 
 
 ## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-05-25](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2)  
-### Telegram 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
+### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
@@ -220,7 +220,7 @@
 ## 7️⃣Telegram 通知频道：
 * 加入[***Cuttlefishの自留地***](https://t.me/ddgksf2021)，第一时间获取最新消息
 * 如有任何关于本库使用的问题可邮件 *ddgksf2013@163.com* 询问
-* 若有需要Crack|去广告的应用或小程序可在[***腾讯文档***](https://docs.qq.com/sheet/DYmRTQXpVY0hNcGls?tab=BB08J2) 中反馈
+* 若有需要Crack去广告的应用或小程序可在[***腾讯文档***](https://docs.qq.com/sheet/DYmRTQXpVY0hNcGls?tab=BB08J2) 中反馈
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
