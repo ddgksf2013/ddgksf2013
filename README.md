@@ -35,7 +35,7 @@
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
 		<td rowspan="4"><strong>会员解锁</strong></td>
-		<td > 1 </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"></a><em>BilibiliVip.conf</em></td><td>ddgksf2013</td>
+		<td > <a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20:%20%5B%0A%20%20%20%20%22https%3A%2F%2Fgithub.com%2Fddgksf2013%2FRewrite%2Fraw%2Fmaster%2FAdBlock%2FBilibili.conf,%20tag%3DB%E7%AB%99%E5%8E%BB%E5%B9%BF%E5%91%8A%2B1080P%E9%AB%98%E7%A0%81%E7%8E%87%40ddgksf2013,%20update-interval%3D86400,%20opt-parser%3Dfalse,%20enabled%3Dtrue%22%0A%20%20%5D%0A%7D">1</a> </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
 		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
