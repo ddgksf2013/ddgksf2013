@@ -38,13 +38,13 @@
 		<td > <a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20:%20%5B%0A%20%20%20%20%22https%3A%2F%2Fgithub.com%2Fddgksf2013%2FRewrite%2Fraw%2Fmaster%2FAdBlock%2FBilibili.conf,%20tag%3DB%E7%AB%99%E5%8E%BB%E5%B9%BF%E5%91%8A%2B1080P%E9%AB%98%E7%A0%81%E7%8E%87%40ddgksf2013,%20update-interval%3D86400,%20opt-parser%3Dfalse,%20enabled%3Dtrue%22%0A%20%20%5D%0A%7D">1</a> </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
-		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
+		<td > <a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20:%20%5B%0A%20%20%20%20%22https%3A%2F%2Fgithub.com%2Fddgksf2013%2FRewrite%2Fraw%2Fmaster%2FUnlockVip%2FSpotify.conf,%20tag%3DSpotify%E9%9F%B3%E4%B9%90VIP%5B%E9%9F%B3%E8%B4%A8%E2%89%A4%E9%AB%98%5D%40app2smile,%20update-interval%3D86400,%20opt-parser%3Dfalse,%20enabled%3Dtrue%22%0A%20%20%5D%0A%7D">2</a> </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
     </tr>
 	<tr>
-		<td > 3 </td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
+		<td > <a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20:%20%5B%0A%20%20%20%20%22https%3A%2F%2Fgithub.com%2Fddgksf2013%2Fdev%2Fraw%2Fmaster%2FForOwnUse.conf,%20tag%3D%E5%A2%A8%E9%B1%BC%E4%B8%93%E5%B1%9EVIP%40ddgksf2013,%20update-interval%3D86400,%20opt-parser%3Dfalse,%20enabled%3Dtrue%22%0A%20%20%5D%0A%7D">3</a> </td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > 酷我纯净版SVIP+净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td>
+		<td > <a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20:%20%5B%0A%20%20%20%20%22https%3A%2F%2Fgist.githubusercontent.com%2Fddgksf2013%2F0f76e952f0c4a2579932f45a209b40c3%2Fraw%2FKuwo.conf,%20tag%3D%E9%85%B7%E6%88%91%E7%BA%AF%E5%87%80%E7%89%88SVIP%40ddgksf2013,%20update-interval%3D86400,%20opt-parser%3Dfalse,%20enabled%3Dfalse%22%0A%20%20%5D%0A%7D">4</a> </td> <td > 酷我纯净版SVIP+净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
