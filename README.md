@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-07-12](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-07-15](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -192,7 +192,6 @@
 > 更多的重写请参考 [*@ddgksf2013*](https://github.com/ddgksf2013) 提供的 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)
 
 ## 4️⃣QuantumultX 脚本Task：
-- [x] 喵喵记账每日签到 [*mmjz.js*](https://github.com/ddgksf2013/Scripts/raw/master/mmjz.js)
 - [x] QX每日色图脚本 [*setu.js*](https://github.com/ddgksf2013/Scripts/raw/master/setu.js)
 - [x] 得宝小程序签到 [*db.js*](https://github.com/ddgksf2013/Scripts/raw/master/debao.js)
 - [x] 同程旅行小程序签到 [*tclx.js*](https://github.com/ddgksf2013/Scripts/raw/master/tclx.js)
