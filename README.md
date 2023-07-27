@@ -224,7 +224,7 @@
 * 自用Clash配置 [*ClashforWindows.yaml*](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
 * 1080P超清IPTV国内[***直播源***](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html)
-* 自用MagicSchool机场[*htts://2220.it*](https://shrtm.nu/fBm)
+* 自用MagicSchool机场 [*htts://2220.it*](https://shrtm.nu/fBm)
 * 墨鱼网盘资源 [*Quark.md*](https://pan.quark.cn/s/431b245da462): TrollStore、Windows、Cracker.ipa、Android.apk...
 * [***自用优秀Web网站合集***](https://github.com/ddgksf2013/WebSite)：影视、工具、下载、阅读、Porn...
 * IOS手机端应用推荐[*Appraven.net*](https://appraven.net/openLink.php?listId=60dda9d80a73da27bb33d44d)
