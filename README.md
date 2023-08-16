@@ -232,7 +232,7 @@
 * [***自用优秀Web网站合集***](https://github.com/ddgksf2013/WebSite)：影视、工具、下载、阅读、Porn...
 * IOS手机端应用推荐[*Appraven.net*](https://appraven.net/collection/37743082)
 * 自用小火箭最简配置[*Shadowrocket.conf*](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
-* 微信屏蔽朋友圈AD[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)
+* 微信屏蔽朋友圈广告[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)
 
 
 ## 7️⃣Telegram 通知频道：
