@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-08-15](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-08-16](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -232,7 +232,7 @@
 * [***自用优秀Web网站合集***](https://github.com/ddgksf2013/WebSite)：影视、工具、下载、阅读、Porn...
 * IOS手机端应用推荐[*Appraven.net*](https://appraven.net/collection/37743082)
 * 自用小火箭最简配置[*Shadowrocket.conf*](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
-* 微信开启青少年模式即可去除朋友圈AD、公众号信息流AD、小程序启动开屏AD
+* 微信屏蔽朋友圈AD[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)
 
 
 ## 7️⃣Telegram 通知频道：
