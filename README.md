@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-08-16](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-08-19](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -34,7 +34,7 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
-		<td rowspan="5"><strong>会员解锁</strong></td>
+		<td rowspan="6"><strong>会员解锁</strong></td>
 		<td > <a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20:%20%5B%0A%20%20%20%20%22https%3A%2F%2Fgithub.com%2Fddgksf2013%2FRewrite%2Fraw%2Fmaster%2FAdBlock%2FBilibili.conf,%20tag%3DB%E7%AB%99%E5%8E%BB%E5%B9%BF%E5%91%8A%2B1080P%E9%AB%98%E7%A0%81%E7%8E%87%40ddgksf2013,%20update-interval%3D86400,%20opt-parser%3Dfalse,%20enabled%3Dtrue%22%0A%20%20%5D%0A%7D">1</a> </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
@@ -48,6 +48,9 @@
     </tr>
 	<tr>
 		<td > 5 </td> <td > 财新周刊VIP </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
+    </tr>
+	<tr>
+		<td > 6 </td> <td > Nicegram高级版 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/MoYu/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
