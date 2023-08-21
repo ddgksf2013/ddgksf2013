@@ -236,7 +236,7 @@
 * IOS手机端应用推荐[*Appraven.net*](https://appraven.net/collection/37743082)
 * 自用小火箭最简配置[*Shadowrocket.conf*](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
 * 微信屏蔽朋友圈广告[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)
-* IOS、Android[TV]、Web、AppleTV观影方案[*Notion.md*](https://ddgksf2013.notion.site/IOS-Android-TV-Web-AppleTV-737275e3de2c4def86196d8c982ef86e?pvs=4)
+* IOS、Android[TV]、Web、AppleTV观影方案[***Notion.md***](https://ddgksf2013.notion.site/IOS-Android-TV-Web-AppleTV-737275e3de2c4def86196d8c982ef86e?pvs=4)
 
 
 ## 7️⃣Telegram 通知频道：
