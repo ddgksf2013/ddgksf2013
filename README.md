@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-10-05](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-10-07](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -142,7 +142,7 @@
     </tr>
 	<tr>
 		<td rowspan="11"><strong>应用增强</strong></td>
-		<td > 1 </td> <td > B站自动换区 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></td><td>Nobyda</td>
+		<td > 1 </td> <td > B站自动换区[不适用新版] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></td><td>Nobyda</td>
     </tr>
 	<tr>
 		<td > 2 </td> <td > <strong>B站CC繁体字幕转简体</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Bilibili_CC.conf"><em>Bilibili_CC.conf</em></a></td><td>ddgksf2013</td>
