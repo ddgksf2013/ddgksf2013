@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-10-27](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2023-11-08](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -44,7 +44,7 @@
 		<td > <a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20:%20%5B%0A%20%20%20%20%22https%3A%2F%2Fgithub.com%2Fddgksf2013%2Fdev%2Fraw%2Fmaster%2FForOwnUse.conf,%20tag%3D%E5%A2%A8%E9%B1%BC%E4%B8%93%E5%B1%9EVIP%40ddgksf2013,%20update-interval%3D86400,%20opt-parser%3Dfalse,%20enabled%3Dtrue%22%0A%20%20%5D%0A%7D">3</a> </td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > <a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20:%20%5B%0A%20%20%20%20%22https%3A%2F%2Fgist.githubusercontent.com%2Fddgksf2013%2F0f76e952f0c4a2579932f45a209b40c3%2Fraw%2FKuwo.conf,%20tag%3D%E9%85%B7%E6%88%91%E7%BA%AF%E5%87%80%E7%89%88SVIP%40ddgksf2013,%20update-interval%3D86400,%20opt-parser%3Dfalse,%20enabled%3Dfalse%22%0A%20%20%5D%0A%7D">4</a> </td> <td > 酷我纯净版SVIP+净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td>
+		<td > <a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20:%20%5B%0A%20%20%20%20%22https%3A%2F%2Fgist.githubusercontent.com%2Fddgksf2013%2F0f76e952f0c4a2579932f45a209b40c3%2Fraw%2FKuwo.conf,%20tag%3D%E9%85%B7%E6%88%91%E7%BA%AF%E5%87%80%E7%89%88SVIP%40ddgksf2013,%20update-interval%3D86400,%20opt-parser%3Dfalse,%20enabled%3Dfalse%22%0A%20%20%5D%0A%7D">4</a> </td> <td ><s>  酷我纯净版SVIP+</s> 净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td > 财新周刊VIP </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
