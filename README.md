@@ -59,7 +59,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="27"><strong>广告屏蔽</strong></td>
+		<td rowspan="26"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -137,14 +137,11 @@
 			<tr>
 		<td > 26 </td> <td > 微信阅读精简 </td> <td ><a href="https://raw.githubusercontent.com/Maasea/sgmodule/master/WeRead.sgmodule"><em>WeRead.sgmodule</em></a></td><td>Maasea</td>  
     </tr>
-			<tr>
-		<td > 27 </td> <td > VVebo修复用户时间线 </td> <td ><a href="https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js"><em>vvebo.js</em></a></td><td>suiyuran</td>  
-    </tr>
 	<tr>
 		<td colspan="5">  </td>
     </tr>
 	<tr>
-		<td rowspan="11"><strong>应用增强</strong></td>
+		<td rowspan="12"><strong>应用增强</strong></td>
 		<td > 1 </td> <td > <s>B站自动换区</s>[不适用新版] </td> <td ><s><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></s></td><td>Nobyda</td>
     </tr>
 	<tr>
@@ -176,6 +173,9 @@
     </tr>
 	<tr>
 		<td > 11 </td> <td > Spotify歌词翻译 </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js"><em>spotify-lyric.js</em></a></td><td>app2smile</td>
+    </tr>
+			<tr>
+		<td > 12 </td> <td > VVebo修复用户时间线 </td> <td ><a href="https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js"><em>vvebo.js</em></a></td><td>suiyuran</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
