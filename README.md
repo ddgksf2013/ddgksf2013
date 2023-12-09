@@ -56,7 +56,7 @@
 		<td > 7 </td> <td > RevenueCat多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js"><em>revenuecat.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > BuyiTunes多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td>
+		<td > 8 </td> <td > BuyiTunes多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
