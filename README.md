@@ -50,7 +50,7 @@
 		<td > 5 </td> <td > 财新周刊VIP </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 6 </td> <td > [用Swiftgram]<s> Nicegram高级版</s> </td> <td ><s> <a href="https://raw.githubusercontent.com/ddgksf2013/MoYu/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></s> </td><td>ddgksf2013</td>
+		<td > 6 </td> <td > [用Swiftgram]<br><s> Nicegram高级版</s> </td> <td ><s> <a href="https://raw.githubusercontent.com/ddgksf2013/MoYu/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></s> </td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 7 </td> <td > RevenueCat多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js"><em>revenuecat.js</em></a></td><td>ddgksf2013</td>
