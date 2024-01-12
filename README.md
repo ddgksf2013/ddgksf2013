@@ -266,4 +266,4 @@
 ## 9️⃣Star 历史
 <img src="https://api.star-history.com/svg?repos=ddgksf2013/ddgksf2013&type=Date" alt="Star History Chart" width="600" height="356" align="center">
 
-### [回到顶部](https://github.com/ddgksf2013/ddgksf2013)
+### [回到顶部](https://github.com/ddgksf2013/ddgksf2013?tab=readme-ov-file#readme)
