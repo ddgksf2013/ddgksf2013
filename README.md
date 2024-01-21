@@ -255,7 +255,7 @@
 ## 7️⃣Telegram 通知频道：
 * 加入[***Cuttlefishの自留地***](https://t.me/ddgksf2021)，第一时间获取最新消息
 * 如有任何关于本库使用的问题可邮件 *ddgksf2013@163.com* 询问
-* 若有需要Crack去广告的应用或小程序可在[***Google文档***](https://docs.google.com/spreadsheets/d/1HDDSd5uadmqyd0UuBsIJltuRzLdME0P6LuaWPbURgWM/edit?usp=sharing) 中反馈
+* 若有需要Crack去广告的应用或小程序可在[***Google文档***](https://docs.google.com/spreadsheets/d/1HDDSd5uadmqyd0UuBsIJltuRzLdME0P6LuaWPbURgWM) 中反馈
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
