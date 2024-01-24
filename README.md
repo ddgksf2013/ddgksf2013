@@ -59,7 +59,7 @@
 		<td > 8 </td> <td > BuyiTunes多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 9 </td> <td > Emby解锁 </td> <td ><a href="https://raw.githubusercontent.com/rartv/EmbyPublic/test/quantumult-x/emby-plugin.conf"><em>emby-plugin.conf</em></a></td><td>rartv</td>
+		<td > 9 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
