@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-04-24](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-04-29](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -250,6 +250,7 @@
 * 微信屏蔽朋友圈广告[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)
 * IOS、Android[TV]、Web、AppleTV观影方案[***Notion.md***](https://ddgksf2013.notion.site/IOS-Android-TV-Web-AppleTV-737275e3de2c4def86196d8c982ef86e?pvs=4)
 * 如何有效减少Android、IOS端应用开屏广告的打扰？[*WeChat.web*](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
+* 一些自用优质安卓APPS [***Awesome-Android-Apps***](https://github.com/ddgksf2013/Awesome-Android-Apps)
 
 
 ## 7️⃣Telegram 通知频道：
