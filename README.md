@@ -50,7 +50,7 @@
 		<td > 5 </td> <td > 财新周刊VIP </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 6 </td> <td > [也可用Swiftgram]<br>Nicegram高级版 </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td>
+		<td > 6 </td> <td > Nicegram高级版<br> [也可用Swiftgram]</td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 7 </td> <td > RevenueCat多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js"><em>revenuecat.js</em></a></td><td>ddgksf2013</td>
@@ -75,7 +75,7 @@
 		<td > 3 </td> <td > 油管广告屏蔽<br><strong><em>视频自动PIP+背景播放</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  
     </tr>
 	<tr>
-		<td > 4 </td> <td > 公众号图文去广告<br><strong><em>无法去除朋友圈AD</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></td><td>ddgksf2013</td>
+		<td > 4 </td> <td > <s> 公众号图文去广告 </s><br><strong><em>无法去除朋友圈AD</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td > 知乎去广告 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet"><em>Zhihu_Plus.conf</em></a></td><td>blackmatrix7</td>  
