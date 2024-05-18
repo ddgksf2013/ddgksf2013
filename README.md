@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-05-17](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-05-18](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -75,7 +75,7 @@
 		<td > 3 </td> <td > 油管广告屏蔽<br><strong><em>视频自动PIP+背景播放</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  
     </tr>
 	<tr>
-		<td > 4 </td> <td > <s> 公众号图文去广告 </s><br><strong><em>无法去除朋友圈AD</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></td><td>ddgksf2013</td>
+		<td > 4 </td> <td > <s> 公众号图文去广告 </s><br><strong><em>无法去除朋友圈AD</strong></em> </td> <td ><s> <a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></s> </td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td > 知乎去广告 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet"><em>Zhihu_Plus.conf</em></a></td><td>blackmatrix7</td>  
