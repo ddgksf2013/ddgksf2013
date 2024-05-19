@@ -206,7 +206,7 @@
 		<td > 6 </td> <td > 百度搜索去广告 </td> <td ><a href="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf"><em>Adblock4limbo.conf</em></a></td><td>limbopro</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > 解决Google搜索人机验证 </td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet"><em>GoogleCAPTCHA.snippet</em></a></td><td>NobyDa</td>
+		<td > 7 </td> <td > 解决Google搜索人机验证 </td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet"><em>CAPTCHA.snippet</em></a></td><td>NobyDa</td>
     </tr>
 </table>
 
