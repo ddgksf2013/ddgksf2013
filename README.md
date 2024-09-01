@@ -87,7 +87,7 @@
 		<td > 6 </td> <td > 百度贴吧去广告 </td> <td ><a href="https://github.com/app2smile/rules/raw/master/module/tieba-qx.conf"><em>Tieba_Ads.conf</em></a></td><td>app2smile</td>  
     </tr>
 	<tr>
-		<td > 7 </td> <td > 百度网盘去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.vip.js"><em>BdPanAdBlock.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 7 </td> <td > 百度网盘去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.adblock.js"><em>BdPanAdBlock.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 		<tr>
 		<td > 8 </td> <td > <strong><em>喜马拉雅去广告</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Ximalaya.conf"><em>XmlyAdBlock.conf</em></a></td><td>ddgksf2013</td>  
