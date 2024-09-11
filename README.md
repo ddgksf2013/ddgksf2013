@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-09-05](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-09-12](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -157,7 +157,7 @@
 		<td colspan="5">  </td>
     </tr>
 	<tr>
-		<td rowspan="11"><strong>应用增强</strong></td>
+		<td rowspan="12"><strong>应用增强</strong></td>
 		<td > 1 </td> <td > <s>B站自动换区</s>[不适用新版] </td> <td ><s><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></s></td><td>Nobyda</td>
     </tr>
 	<tr>
@@ -189,6 +189,9 @@
     </tr>
 			<tr>
 		<td > 11 </td> <td > VVebo修复用户时间线 </td> <td ><a href="https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js"><em>vvebo.js</em></a></td><td>suiyuran</td>  
+    </tr>
+			<tr>
+		<td > 12 </td> <td > IOS解锁天气服务 </td> <td ><a href="https://raw.githubusercontent.com/VirgilClyne/iRingo/main/snippet/WeatherKit.snippet"><em>WeatherKit.snippet</em></a></td><td>VirgilClyne</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
