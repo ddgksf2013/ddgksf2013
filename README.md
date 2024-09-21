@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-09-14](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-09-21](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -69,7 +69,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="28"><strong>广告屏蔽</strong></td>
+		<td rowspan="29"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -152,6 +152,9 @@
     </tr>
 	<tr>
 		<td > 28 </td> <td > 百度网盘净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.adblock.js"><em>BaiduCloud.conf</em></a></td><td>ddgksf2013</td>
+    	</tr>
+	<tr>
+		<td > 29 </td> <td > 黑木耳去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d3a5059645378a05861d6ba18e2fda4c/raw/cmsAdblock.js"><em>cmsAdblock.js</em></a></td><td>Yswag<br>ddgksf2013</td>
     	</tr>
 	<tr>
 		<td colspan="5">  </td>
