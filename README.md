@@ -35,7 +35,7 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
-		<td rowspan="10"><strong>会员解锁</strong></td>
+		<td rowspan="9"><strong>会员解锁</strong></td>
 		<td > 1</td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
@@ -62,14 +62,12 @@
 	<tr>
 		<td > 9 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
     </tr>
-	<tr>
-		<td > 10 </td> <td > <strong>彩云天气净化</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf"><em>CaiYunAds.conf</em></a></td><td>ddgksf2013</td>  
-    </tr>
+	
 	<tr>
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="29"><strong>广告屏蔽</strong></td>
+		<td rowspan="30"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -156,6 +154,9 @@
 	<tr>
 		<td > 29 </td> <td > 黑木耳去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d3a5059645378a05861d6ba18e2fda4c/raw/cmsAdblock.js"><em>cmsAdblock.js</em></a></td><td>Yswag<br>ddgksf2013</td>
     	</tr>
+     <tr>
+		<td > 10 </td> <td > <strong>彩云天气净化</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf"><em>CaiYunAds.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
 	<tr>
 		<td colspan="5">  </td>
     </tr>
