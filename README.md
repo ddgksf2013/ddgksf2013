@@ -200,7 +200,7 @@
 		<td colspan="5">  </td>
     </tr>
 	<tr>
-		<td rowspan="7"><strong>网页优化</strong></td>
+		<td rowspan="8"><strong>网页优化</strong></td>
 		<td > 1 </td> <td > 自用影视网站去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/WebAdBlock.conf"><em>WebAdBlock.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
@@ -220,6 +220,9 @@
     </tr>
 	<tr>
 		<td > 7 </td> <td > 解决Google搜索人机验证 </td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet"><em>CAPTCHA.snippet</em></a></td><td>NobyDa</td>
+    </tr>
+	<tr>
+		<td > 8 </td> <td > 123盘网页去广告<br>解除1G流量下载限制 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/123pan.webEnhance.sgmodule"><em>123pan.webEnhance.sgmodule</em></a></td><td>NobyDa</td>
     </tr>
 </table>
 
