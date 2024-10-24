@@ -274,7 +274,7 @@
 * 如何有效减少Android、IOS端应用开屏广告的打扰？[*WeChat.web*](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
 * 一些自用优质安卓APPS [***Awesome-Android-Apps***](https://github.com/ddgksf2013/Awesome-Android-Apps)
 * 墨鱼自用去广告融合版模块[适用于小火箭、Surge] [***Adblock.sgmodule***](https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule)
-* 捷径去IOS应用开屏广告 [***Shoutcut.MP4***](https://t.me/ddgksf2021/6454)
+* 捷径去IOS应用开屏广告 [***Shoutcut.md***](https://t.me/ddgksf2021/6454)
 
 
 ## 7️⃣Telegram 通知频道：
