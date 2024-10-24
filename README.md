@@ -197,7 +197,7 @@
 		<td > 11 </td> <td > VVebo修复用户时间线 </td> <td ><a href="https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js"><em>vvebo.js</em></a></td><td>suiyuran</td>  
     </tr>
 			<tr>
-		<td > 12 </td> <td > <strong>IOS解锁天气服务</strong> </td> <td ><a href="https://raw.githubusercontent.com/VirgilClyne/iRingo/main/snippet/WeatherKit.snippet"><em>WeatherKit.snippet</em></a></td><td>VirgilClyne</td>  
+		<td > 12 </td> <td > <strong>IOS解锁天气服务</strong> </td> <td ><a href="https://github.com/NSRingo/WeatherKit/releases/latest/download/WeatherKit.snippet"><em>WeatherKit.snippet</em></a></td><td>VirgilClyne</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
