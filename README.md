@@ -262,7 +262,7 @@
 * QuantumultX测试版[***更新日志***](https://github.com/ddgksf2013/Profile/raw/master/QX_TestFlight_Update.log)
 * 屏蔽IOS更新[***点我***](https://initnil.com/tvOS.mobileconfig)
 * 自用Clash配置 [*ClashforWindows.yaml*](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
-* 1080P超清IPTV国内[***直播源***](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2024.m3u)
+* 1080P超清IPTV国内[***直播源***](https://live.zbds.top/tv/iptv4.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html)
 * 自用 ACA Emby 机场 [***htts://www.aca.best***](https://www.aca.dog/#/register?code=t1qwfcOL)
 * 墨鱼网盘资源 [*Tg.md*](https://t.me/ddgksf2023): TrollStore、Windows、Cracker.ipa、Android.apk...
