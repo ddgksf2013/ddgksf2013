@@ -279,7 +279,7 @@
 
 ## 7️⃣Telegram 通知频道：
 * 加入[***Cuttlefishの自留地***](https://t.me/ddgksf2021)，第一时间获取最新消息
-* 如有任何关于本库使用的问题可邮件 *ddgksf2013@163.com* 询问
+* 关于使用本库脚本引起APP问题可邮件 *ddgksf2013@163.com* 反馈
 * 若有需要Crack去广告的应用或小程序可在[***Google文档***](https://docs.google.com/spreadsheets/d/1HDDSd5uadmqyd0UuBsIJltuRzLdME0P6LuaWPbURgWM) 中反馈
 * 如果你不懂编程或不想折腾，又有相对复杂的功能需求，可以考虑找[***ddgksf2013***](https://t.me/ddgksf2013)`付费定制` 
 
