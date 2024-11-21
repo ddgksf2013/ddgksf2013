@@ -263,7 +263,7 @@
 
 ## 6️⃣Awesome Resource：
 * QuantumultX测试版[***更新日志***](https://github.com/ddgksf2013/Profile/raw/master/QX_TestFlight_Update.log)
-* 屏蔽IOS更新[***点我***](https://initnil.com/tvOS.mobileconfig)
+* 屏蔽IOS更新2024.11 [***点我***](https://d-updater.i4.cn/web/mobileconfig/iOS18.mobileconfig)
 * 自用Clash配置 [*ClashforWindows.yaml*](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
 * 1080P超清IPTV国内[***直播源***](https://live.zbds.top/tv/iptv4.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html)
