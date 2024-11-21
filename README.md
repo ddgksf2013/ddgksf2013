@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2024-11-05](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2024-11-21](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -157,10 +157,10 @@
 		<td > 29 </td> <td > 黑木耳去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d3a5059645378a05861d6ba18e2fda4c/raw/cmsAdblock.js"><em>cmsAdblock.js</em></a></td><td>Yswag<br>ddgksf2013</td>
     	</tr>
      <tr>
-		<td > 30 </td> <td > <strong>彩云天气净化</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf"><em>CaiYunAds.conf</em></a></td><td>ddgksf2013</td> 
+		<td > 30 </td> <td > 彩云天气净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf"><em>CaiYunAds.conf</em></a></td><td>ddgksf2013</td> 
     </tr>
 	<tr>
-		<td > 31 </td> <td > 知乎去广告[墨鱼自用版] </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d43179d848586d561dbb968dee93bae8/raw/zhihu.js"><em>zhihu.js</em></a></td><td>ddgksf2013<br>blackmatrix7</td>  
+		<td > 31 </td> <td > <strong>知乎去广告[墨鱼自用版]</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d43179d848586d561dbb968dee93bae8/raw/zhihu.js"><em>zhihu.js</em></a></td><td>ddgksf2013<br>blackmatrix7</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
@@ -272,9 +272,9 @@
 * [***自用优秀Web网站合集***](https://github.com/ddgksf2013/WebSite)：影视、工具、下载、阅读、Porn...
 * IOS手机端应用推荐[*Appraven.net*](https://appraven.net/collection/37743082)
 * 自用小火箭最简配置[*Shadowrocket.conf*](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
-* 微信屏蔽朋友圈广告 ~~[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)~~
+* 微信屏蔽朋友圈广告[可开启青少年模式] ~~[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)~~
 * IOS、Android[TV]、Web、AppleTV观影方案[***Notion.md***](https://ddgksf2013.notion.site/IOS-Android-TV-Web-AppleTV-737275e3de2c4def86196d8c982ef86e?pvs=4)
-* 如何有效减少Android、IOS端应用开屏广告的打扰[青少年模式]？~~[*WeChat.web*](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)~~ 
+* 如何有效减少Android、IOS端应用开屏广告的打扰？~~[*WeChat.web*](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)~~ 
 * 一些自用优质安卓APPS [***Awesome-Android-Apps***](https://github.com/ddgksf2013/Awesome-Android-Apps)
 * 墨鱼自用去广告融合版模块[适用于小火箭、Surge] [***Adblock.sgmodule***](https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule)
 * 捷径去IOS应用开屏广告 [***Shoutcut.md***](https://t.me/ddgksf2021/6454)
