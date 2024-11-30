@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2024-11-21](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2024-11-30](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -267,7 +267,7 @@
 * 自用Clash配置 [*ClashforWindows.yaml*](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
 * 1080P超清IPTV国内[***直播源***](https://live.zbds.top/tv/iptv4.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html)
-* 自用TKV机场专线推荐(https://portal.tkv.one/)[https://bit.ly/tkvss] 𝟳.𝟱折扣码: `ddgksf2013`
+* 自用TKV机场专线推荐 (https://portal.tkv.one/)[https://bit.ly/tkvss] 𝟳.𝟱折扣码: `ddgksf2013`
 * 墨鱼网盘资源 [*Tg.md*](https://t.me/ddgksf2023): TrollStore、Windows、Cracker.ipa、Android.apk...
 * [***自用优秀Web网站合集***](https://github.com/ddgksf2013/WebSite)：影视、工具、下载、阅读、Porn...
 * IOS手机端应用推荐[*Appraven.net*](https://appraven.net/collection/37743082)
