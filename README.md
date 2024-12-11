@@ -266,8 +266,7 @@
 * 屏蔽IOS更新2024.11 [***点我***](https://d-updater.i4.cn/web/mobileconfig/iOS18.mobileconfig)
 * 自用Clash配置 [*ClashforWindows.yaml*](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
 * 1080P超清IPTV国内[***直播源***](https://live.zbds.top/tv/iptv4.m3u)
-* Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html)
-* 自用TKV专线机场 [***https://portal.tkv.one***](https://bit.ly/tkvss) 
+* Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html) 
 * 墨鱼网盘资源 [*Tg.md*](https://t.me/ddgksf2023): TrollStore、Windows、Cracker.ipa、Android.apk...
 * [***自用优秀Web网站合集***](https://github.com/ddgksf2013/WebSite)：影视、工具、下载、阅读、Porn...
 * IOS手机端应用推荐[*Appraven.net*](https://appraven.net/collection/37743082)
