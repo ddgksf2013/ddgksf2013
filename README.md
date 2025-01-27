@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-01-04](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-01-27](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -281,6 +281,7 @@
 * 墨鱼自用去广告融合版模块[适用于小火箭、Surge] [***Adblock.sgmodule***](https://github.com/ddgksf2013/Modules/raw/main/Adblock.sgmodule)
 * 捷径去IOS应用开屏广告 [***Shoutcut.md***](https://t.me/ddgksf2021/6454)
 * DNS去广告多端适用类似分流去广告 [*18bitNDS*](https://go.18bit.cn/help-docs/help-docs-index.html)
+* EmbyToolBox大全 [*EmbyToolbox*](https://github.com/ddgksf2013/EmbyToolbox)
 
 
 ## 7️⃣Telegram 通知频道：
