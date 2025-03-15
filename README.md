@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-03-12](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-03-15](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -97,7 +97,7 @@
 		<td > 8 </td> <td > <em>喜马拉雅去广告</em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Ximalaya.conf"><em>XmlyAdBlock.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 9 </td> <td > 小红书去水印</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 9 </td> <td > 小红书去水印</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShuAds.conf"><em>XiaoHongShu.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 10 </td> <td > Keep超级净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/KeepStyle.conf"><em>keepStyle.conf</em></a></td><td>ddgksf2013</td>  
