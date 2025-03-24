@@ -213,7 +213,7 @@
     </tr>
 	<tr>
 		<td rowspan="8"><strong>网页优化</strong></td>
-		<td > 1 </td> <td > 自用影视网站去广告<br>[停止维护] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/WebAdBlock.conf"><em>WebAdBlock.conf</em></a></td><td>ddgksf2013</td>
+		<td > 1 </td> <td >  <s>自用影视网站去广告 </s><br>[停止维护] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/WebAdBlock.conf"><em>WebAdBlock.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 2 </td> <td > Google自动翻页 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Html/EndlessGoogle.conf"><em>EndlessGoogle.conf</em></a></td><td>langkhach</td>
