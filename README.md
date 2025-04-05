@@ -66,7 +66,7 @@
 		<td > 10 </td> <td > 端传媒VIP </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/Duan.Vip.sgmodule"><em>Duan.Vip.sgmodule</em></a></td><td>ddgksf2013</td>
     </tr>
 <tr>
-		<td > 11 </td> <td > Goodbility会员 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Modules/main/Goodbility.sgmodule"><em>Goodbility.Vip.sgmodule</em></a></td><td>ddgksf2013</td>
+		<td > 11 </td> <td > Goodbility会员 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Modules/main/Goodbility.Vip.sgmodule"><em>Goodbility.sgmodule</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
