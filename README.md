@@ -124,7 +124,7 @@
 		<td > 17 </td> <td > <strong>网易云去广告</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/NeteaseAds.conf"><em>Netease.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 18 </td> <td > 菜鸟裹裹去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 18 </td> <td > 菜鸟裹裹去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf"><em>CainiaoAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 19 </td> <td > 起点去广告[卸载重装] </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  
