@@ -206,7 +206,7 @@
 		<td > 12 </td> <td > <strong>IOS解锁天气服务</strong> </td> <td ><a href="https://github.com/NSRingo/WeatherKit/releases/latest/download/WeatherKit.snippet"><em>WeatherKit.snippet</em></a></td><td>VirgilClyne</td>  
     </tr>
 			<tr>
-		<td > 13 </td> <td > 京东历史比价 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/JD_Price.sgmodule"><em>JD_Price.sgmodule</em></a><br><a href="https://raw.githubusercontent.com/githubdulong/Script/master/Surge/jd_price2.sgmodule"><em>jd_price2.sgmodule</em></a></td><td>wf021325<br>小白脸</td>  
+		<td > 13 </td> <td > 京东历史比价 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/JD_Price.sgmodule"><em>JD_Price.sgmodule</em></a></td><td>wf021325<br>小白脸</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
