@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-05-07](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-05-14](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -72,7 +72,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="31"><strong>广告屏蔽</strong></td>
+		<td rowspan="32"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -164,6 +164,9 @@
     </tr>
 	<tr>
 		<td > 31 </td> <td > <strong>知乎去广告[墨鱼自用版]</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d43179d848586d561dbb968dee93bae8/raw/Zhihu.Adblock.js"><em>Zhihu.Adblock.js</em></a></td><td>ddgksf2013<br>blackmatrix7</td>  
+    </tr>
+	<tr>
+		<td > 32 </td> <td > 贴吧去广告[另一] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TieBaAds.conf"><em>Tieba_Ads.conf</em></a></td><td>ddgksf2013<br>app2smile</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
@@ -286,7 +289,7 @@
 * 捷径去IOS应用开屏广告 [***Shoutcut.md***](https://t.me/ddgksf2021/6454)
 * DNS去广告多端适用类似分流去广告 [*18bitNDS*](https://go.18bit.cn/help-docs/help-docs-index.html)
 * EmbyToolBox大全 [*EmbyToolbox*](https://github.com/ddgksf2013/EmbyToolbox)
-* [@CaiXinRSS](https://t.me/caixinrss) 实时推送财新RSS文章(包含数据通)
+* [@CaiXinRSS](https://t.me/caixinrss) 实时推送财新RSS文章(全文版)
 
 
 ## 7️⃣Telegram 通知频道：
