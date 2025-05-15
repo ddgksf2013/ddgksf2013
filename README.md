@@ -166,7 +166,7 @@
 		<td > 31 </td> <td > <strong>知乎去广告[墨鱼自用版]</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d43179d848586d561dbb968dee93bae8/raw/Zhihu.Adblock.js"><em>Zhihu.Adblock.js</em></a></td><td>ddgksf2013<br>blackmatrix7</td>  
     </tr>
 	<tr>
-		<td > 32 </td> <td > 贴吧去广告[另一] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TieBaAds.conf"><em>Tieba_Ads.conf</em></a></td><td>ddgksf2013<br>app2smile</td>  
+		<td > 32 </td> <td > 贴吧去广告[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TieBaAds.conf"><em>Tieba_Ads.conf</em></a></td><td>ddgksf2013<br>app2smile</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
