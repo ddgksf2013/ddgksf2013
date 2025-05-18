@@ -290,6 +290,7 @@
 * DNS去广告多端适用类似分流去广告 [*18bitNDS*](https://go.18bit.cn/help-docs/help-docs-index.html)
 * EmbyToolBox大全 [*EmbyToolbox*](https://github.com/ddgksf2013/EmbyToolbox)
 * [@CaiXinRSS](https://t.me/caixinrss) 实时推送财新RSS文章(全文版)
+* Shadowrocket [小白使用手册](https://lowertop.github.io/Shadowrocket/)
 
 
 ## 7️⃣Telegram 通知频道：
