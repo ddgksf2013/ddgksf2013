@@ -289,7 +289,7 @@
 * 捷径去IOS应用开屏广告 [***Shoutcut.md***](https://t.me/ddgksf2021/6454)
 * DNS去广告多端适用类似分流去广告 [*18bitNDS*](https://go.18bit.cn/help-docs/help-docs-index.html)
 * EmbyToolBox大全 [*EmbyToolbox*](https://github.com/ddgksf2013/EmbyToolbox)
-* [@CaiXinRSS](https://t.me/caixinrss) 实时推送财新RSS文章(全文版)
+* [@发电](https://t.me/ddgksf2013) 获取实时推送财新数据通文章(全文版)
 * Shadowrocket [小白使用手册](https://lowertop.github.io/Shadowrocket/)
 
 
