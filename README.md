@@ -293,6 +293,7 @@
 * DNS去广告多端适用类似分流去广告 [*18bitNDS*](https://go.18bit.cn/help-docs/help-docs-index.html)
 * EmbyToolBox大全 [*EmbyToolbox*](https://github.com/ddgksf2013/EmbyToolbox)
 * Shadowrocket [小白使用手册](https://lowertop.github.io/Shadowrocket/)
+* 发电[***@ddgksf2013***](https://t.me/ddgksf2013) 获取财新数据通Pro无限制全文订阅
 
 
 ## 7️⃣Telegram 通知频道：
