@@ -168,7 +168,7 @@
 	<tr>
 		<td > 32 </td> <td > 贴吧去广告[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TieBaAds.conf"><em>Tieba_Ads.conf</em></a></td><td>ddgksf2013<br>app2smile</td>  
     </tr>
-	<tr>https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/NeteaseMailAds.conf
+	<tr>
 		<td > 33 </td> <td > Reddit去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/RedditAds.conf"><em>RedditAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
