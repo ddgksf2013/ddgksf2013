@@ -72,7 +72,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="33"><strong>广告屏蔽</strong></td>
+		<td rowspan="34"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -168,8 +168,11 @@
 	<tr>
 		<td > 32 </td> <td > 贴吧去广告[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TieBaAds.conf"><em>Tieba_Ads.conf</em></a></td><td>ddgksf2013<br>app2smile</td>  
     </tr>
-	<tr>
-		<td > 33 </td> <td > Reddit增强 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/RedditAds.conf"><em>RedditAds.conf</em></a></td><td>ddgksf2013</td>  
+	<tr>https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/NeteaseMailAds.conf
+		<td > 33 </td> <td > Reddit去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/RedditAds.conf"><em>RedditAds.conf</em></a></td><td>ddgksf2013</td>  
+    </tr>
+<tr>
+		<td > 34 </td> <td > 网易邮箱大师净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/NeteaseMailAds.conf"><em>NeteaseMailAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
