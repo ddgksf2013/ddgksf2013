@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-06-15](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-06-22](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -296,7 +296,7 @@
 * DNS去广告多端适用类似分流去广告 [*18bitNDS*](https://go.18bit.cn/help-docs/help-docs-index.html)
 * EmbyToolBox大全 [*EmbyToolbox*](https://github.com/ddgksf2013/EmbyToolbox)
 * Shadowrocket [小白使用手册](https://lowertop.github.io/Shadowrocket/)
-* 发电[***@ddgksf2013***](https://t.me/ddgksf2013) 获取财新数据通Pro无限制全文订阅
+* 发电[***@ddgksf2013***](https://t.me/ddgksf2013) 获取财新数据通Pro全文订阅
 
 
 ## 7️⃣Telegram 通知频道：
