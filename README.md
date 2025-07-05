@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-06-22](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-07-05](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
@@ -256,7 +256,7 @@
 - [x] 书香门第网页签到 [*sxmd.js*](https://github.com/ddgksf2013/Scripts/raw/master/shuxiangmendi.js)
 - [x] 每天60s读懂世界 [*60s.js*](https://github.com/ddgksf2013/Scripts/raw/master/60s.js)
 - [x] Glados签到 [*glados.js*](https://gist.githubusercontent.com/ddgksf2013/32b3d37d78433a34370cbfb69780160d/raw/glados.js)
-- [x] Emby自动保号 [*emby.js*](https://gist.githubusercontent.com/ddgksf2013/e6793129fba99bb539cd7a49f74a48fa/raw/embyAutoSign.js)
+- [x] 携程旅行自动签到 [*ctrip.js*](https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ctrip.js)
 > 更多的签到脚本请参考 [*@Chavyleung*](https://github.com/chavyleung) 提供的 [***Quantumult X 签到脚本***](https://github.com/chavyleung/scripts/blob/master/QuantumultX_Remote_Task.conf)
 
 ## 5️⃣QuantumultX 图标库
