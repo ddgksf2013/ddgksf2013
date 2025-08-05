@@ -10,7 +10,7 @@
 ## 墨魚手記 [Update on 2025-07-19](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/统计开始-2025年8月5日-blue)
-![Visitor Count](https://hits.sh/github.com/ddgksf2013.svg)
+[![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
 
