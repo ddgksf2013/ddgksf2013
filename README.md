@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-08-29](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-09-01](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -117,10 +117,10 @@
 		<td > 14 </td> <td >[未适配新版] <s> 多多视频去广告</s>  </td> <td ><s> <a href="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/rrtv_json.js"><em>DuoduoVideoAds.js</em></a></s> </td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 15 </td> <td > <strong>微博(轻享版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 15 </td> <td > <strong>微博(轻享版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeiboAds.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 16 </td> <td > 高德地图去广告[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf"><em>Amap.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 16 </td> <td > 高德地图去广告[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/AmapAds.conf"><em>Amap.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 17 </td> <td > <strong>网易云去广告</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/NeteaseAds.conf"><em>Netease.conf</em></a></td><td>ddgksf2013</td>  
