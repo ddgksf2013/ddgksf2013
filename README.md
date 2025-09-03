@@ -282,7 +282,7 @@
 * QuantumultX测试版[***更新日志***](https://github.com/ddgksf2013/Profile/raw/master/QX_TestFlight_Update.log)
 * 屏蔽IOS更新2024.11 [***点我***](https://d-updater.i4.cn/web/mobileconfig/iOS18.mobileconfig)
 * 自用Clash配置 [*ClashforWindows.yaml*](https://github.com/ddgksf2013/Profile/blob/master/ClashVergeforWindows.yaml)
-* 自用机场推荐，[***点我直达***](https://portal.tkv.one/aff.php?aff=83) ，建议季付，勿年付，八折码 `A4RV5QF3YB`
+* 自用机场推荐，[***点我直达***](https://portal.tkv.one/aff.php?aff=83) ，建议季付，勿年付，八折码 `PLMOH7XB21`
 * 1080P超清IPTV国内[***直播源***](https://live.zbds.top/tv/iptv4.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html) 
 * 墨鱼网盘资源 [*Tg.md*](https://t.me/ddgksf2023): TrollStore、Windows、Cracker.ipa、Android.apk...
