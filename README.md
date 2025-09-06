@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-09-05](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-09-06](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -177,7 +177,7 @@
 		<td > 34 </td> <td > 网易邮箱大师净化[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/NeteaseMailAds.conf"><em>NeteaseMailAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 34 </td> <td > 咸鱼净化[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/GoofishAds.conf"><em>GoofishAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 35 </td> <td > <strong>咸鱼净化[JQ版]</strong>strong> </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/GoofishAds.conf"><em>GoofishAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
