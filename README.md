@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-09-06](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-09-19](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -202,7 +202,7 @@
 		<td > 6 </td> <td > 指南针解锁经纬度 </td> <td ><a href="https://raw.githubusercontent.com/VirgilClyne/iRingo/main/snippet/Location.snippet"><em>Location.conf</em></a></td><td>VirgilClyne</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > Testflight共享+解锁区域限制 </td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js"><em>TestFlightAccount.conf</em></a></td><td>NobyDa</td>
+		<td > 7 </td> <td ><s> Testflight共享+解锁区域限制</s> </td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js"><em><s>TestFlightAccount.conf</s></em></a></td><td>NobyDa</td>
     </tr>
 	<tr>
 		<td > 8 </td> <td > UposRedirect </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/UposRedirect.conf"><em>UposRedirect.conf</em></a></td><td>ddgksf2013</td>
