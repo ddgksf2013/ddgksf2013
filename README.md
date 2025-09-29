@@ -120,7 +120,7 @@
 		<td > 15 </td> <td > <strong>微博(轻享版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeiboAds.conf"><em>WeiboAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 16 </td> <td > 高德地图去广告[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/AmapAds.conf"><em>AmapAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 16 </td> <td > 高德地图去广告<br>[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/AmapAds.conf"><em>AmapAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 17 </td> <td > <strong>网易云去广告</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/NeteaseAds.conf"><em>Netease.conf</em></a></td><td>ddgksf2013</td>  
