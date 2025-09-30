@@ -11,10 +11,11 @@
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
-<p align="left">
-          <img src="https://m3-markdown-badges.vercel.app/stars/1/2/ddgksf2013/ddgksf2013">
+
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
+<p align="left">
+          <img src="https://m3-markdown-badges.vercel.app/stars/1/2/ddgksf2013/ddgksf2013">
 
 > [!IMPORTANT]
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
