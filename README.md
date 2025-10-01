@@ -15,7 +15,9 @@
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
 <p align="left">
-          <img src="https://m3-markdown-badges.vercel.app/stars/8/2/ddgksf2013/ddgksf2013">
+  <img src="https://m3-markdown-badges.vercel.app/stars/8/2/ddgksf2013/ddgksf2013" height="30">
+</p>
+
 
 > [!IMPORTANT]
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
