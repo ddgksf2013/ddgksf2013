@@ -15,7 +15,7 @@
 
 ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
 <p align="left">
-  <img src="https://m3-markdown-badges.vercel.app/stars/8/2/ddgksf2013/ddgksf2013" height="10">
+  <img src="https://m3-markdown-badges.vercel.app/stars/8/2/ddgksf2013/ddgksf2013" height="15">
 </p>
 
 
