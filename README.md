@@ -232,7 +232,7 @@
 			<tr>
 		<td > 13 </td> <td > 京东历史比价 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/JD_Price.sgmodule"><em>JD_Price.sgmodule</em></a></td><td>wf021325<br>小白脸</td>  
     </tr>
-<tr><td > 14 </td> <td > Sora去水印 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/71fca841d34a7b440408276d03da3261/raw/SoraRemoveWatermark.js"><em>SoraRemoveWatermark.js</em></a></td><td>ddgksf2013</td>  </tr>
+<tr><td > 14 </td> <td > Sora去水印 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/71fca841d34a7b440408276d03da3261/raw/SoraRemoveWatermark.js"><em>Sora.js</em></a></td><td>ddgksf2013</td>  </tr>
 	<tr>
 		<td colspan="5">  </td>
     </tr>
