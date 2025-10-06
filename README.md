@@ -178,7 +178,7 @@
 		<td > 33 </td> <td > Reddit去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/RedditAds.conf"><em>RedditAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 34 </td> <td > 网易邮箱大师净化[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/NeteaseMailAds.conf"><em>NeteaseMailAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 34 </td> <td > 网易邮箱大师净化[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/NeteaseMailAds.conf"><em>MailAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
 		<td > 35 </td> <td > <strong>闲鱼净化[JQ版]</strong> </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/GoofishAds.conf"><em>GoofishAds.conf</em></a></td><td>ddgksf2013</td>  
