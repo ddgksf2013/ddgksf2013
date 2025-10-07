@@ -54,7 +54,7 @@
 		<td > 4 </td> <td ><strong>酷我SVIP+净化</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/mykkmusic.vip.js"><em>kuwomusic.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 5 </td> <td > <s>财新周刊VIP</s> </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
+		<td > 5 </td> <td > <s>财新周刊VIP</s><br>官方停止运营 </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 6 </td> <td > Nicegram高级版<br> [也可用Swiftgram]</td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td>
