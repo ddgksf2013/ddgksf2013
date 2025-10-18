@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-10-09](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-10-18](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -196,7 +196,7 @@
 		<td colspan="5">  </td>
     </tr>
 	<tr>
-		<td rowspan="14"><strong>应用增强</strong></td>
+		<td rowspan="13"><strong>应用增强</strong></td>
 		<td > 1 </td> <td > <s>B站自动换区</s>[不适用新版] </td> <td ><s><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></s></td><td>Nobyda</td>
     </tr>
 	<tr>
@@ -235,7 +235,6 @@
 			<tr>
 		<td > 13 </td> <td > 京东历史比价 </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/JD_Price.sgmodule"><em>JD_Price.sgmodule</em></a></td><td>wf021325<br>小白脸</td>  
     </tr>
-<tr><td > 14 </td> <td > Sora去水印 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/71fca841d34a7b440408276d03da3261/raw/SoraRemoveWatermark.js"><em>Sora.js</em></a></td><td>ddgksf2013</td>  </tr>
 	<tr>
 		<td colspan="5">  </td>
     </tr>
