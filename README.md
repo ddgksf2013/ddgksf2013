@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-10-18](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-10-29](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -315,6 +315,7 @@
 * EmbyToolBox大全 [*EmbyToolbox*](https://github.com/ddgksf2013/EmbyToolbox)
 * Shadowrocket [小白使用手册](https://lowertop.github.io/Shadowrocket/)
 * 发电[***@ddgksf2013***](https://t.me/ddgksf2013) 获取财新数据通Pro全文订阅
+* 分享那些能提高生活品质的好物 [***ddgksf2013.top/goods***](https://ddgksf2013.top/goods/)
 
 
 ## 7️⃣Telegram 通知频道：
