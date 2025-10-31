@@ -69,7 +69,7 @@
 		<td > 9 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
     </tr>
 	<tr>
-		<td > 10 </td> <td > 端传媒VIP </td> <td ><a href="https://github.com/ddgksf2013/Modules/raw/main/Duan.Vip.sgmodule"><em>Duan.Vip.sgmodule</em></a></td><td>ddgksf2013</td>
+		<td > 10 </td> <td > 端传媒VIP </td> <td ><a href="https://ddgksf2013.top/scripts/duan.vip.js"><em>duan.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 <tr>
 		<td > 11 </td> <td > Goodbility会员 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Modules/main/Goodbility.Vip.sgmodule"><em>Goodbility.sgmodule</em></a></td><td>ddgksf2013</td>
