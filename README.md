@@ -7,7 +7,7 @@
 [![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
 
 
-## 墨魚手記 [Update on 2025-10-29](https://github.com/ddgksf2013/Rewrite)  
+## 墨魚手記 [Update on 2025-11-03](https://github.com/ddgksf2013/Rewrite)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Since](https://img.shields.io/badge/Since-2025年8月5日-blue)
 [![Hits](https://hits.sh/github.com/ddgksf2013.svg.svg?label=Visitor%20Count)](https://hits.sh/github.com/ddgksf2013.svg/)
@@ -78,7 +78,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="38"><strong>广告屏蔽</strong></td>
+		<td rowspan="39"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -191,6 +191,9 @@
     </tr>
 <tr>
 		<td > 38 </td> <td > 车来了净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/CheLaiLeAds.cof"><em>CheLaiLeAds.cof</em></a></td><td>ddgksf2013</td>  
+    </tr>
+<tr>
+		<td > 39 </td> <td > 墨迹天气去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/MoJiWeatherAds.conf"><em>MoJiWeatherAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
