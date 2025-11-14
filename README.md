@@ -83,7 +83,7 @@
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
-		<td > 2 </td> <td > <strong>墨鱼去开屏2.0</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/12ef6aad209155e7eb62c5b00c11b9dd/raw/StartUpAds.conf"><em>StartUpAds.conf</em></a></td><td>ddgksf2013</td>
+		<td > 2 </td> <td > <strong>墨鱼去开屏2.0</strong> </td> <td ><a href="https://ddgksf2013.top/rewrite/StartUpAds.conf"><em>StartUpAds.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
 		<td > 3 </td> <td > 油管广告屏蔽<br><strong><em>视频自动PIP+背景播放</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  
