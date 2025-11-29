@@ -61,10 +61,10 @@
 		<td > 6 </td> <td > Nicegram高级版<br> [也可用Swiftgram]</td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > RevenueCat多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js"><em>revenuecat.js</em></a></td><td>ddgksf2013</td>
+		<td > 7 </td> <td > RevenueCat多合一 </td> <td ><a href="https://ddgksf2013.top/scripts/revenuecat.vip.js"><em>revenuecat.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 8 </td> <td > BuyiTunes多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td>
+		<td > 8 </td> <td > BuyiTunes多合一 </td> <td ><a href="https://ddgksf2013.top/scripts/buyitunes.vip.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 9 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
