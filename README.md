@@ -197,7 +197,7 @@
 		<td > 39 </td> <td > 墨迹天气去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/MoJiWeatherAds.conf"><em>MoJiWeatherAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 40 </td> <td > 搜图神器净化 </td> <td ><a href="https://ddgksf2013.top/rewrite/SouTuShenQiAds.conf"><em>SouTuShenQiAds.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 40 </td> <td > 搜图神器净化 </td> <td ><a href="https://ddgksf2013.top/scripts/soutushenqi.vip.js"><em>soutushenqi.vip.js</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
