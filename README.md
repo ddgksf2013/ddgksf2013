@@ -79,7 +79,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="40"><strong>广告屏蔽</strong></td>
+		<td rowspan="41"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
@@ -198,6 +198,9 @@
     </tr>
 <tr>
 		<td > 40 </td> <td > 搜图神器净化 </td> <td ><a href="https://ddgksf2013.top/scripts/soutushenqi.vip.js"><em>soutushenqi.vip.js</em></a></td><td>ddgksf2013</td>  
+    </tr>
+<tr>
+		<td > 41 </td> <td > 淘票票净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TaoPiaoPiaoAds.conf"><em>TaoPiaoPiaoAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
