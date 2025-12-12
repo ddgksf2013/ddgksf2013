@@ -70,7 +70,7 @@
 		<td > 9 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
     </tr>
 	<tr>
-		<td > 10 </td> <td > <s>端传媒VIP</s> </td> <td ><a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%22rewrite_remote%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22https%3A%2F%2Fddgksf2013.top%2Fscripts%2Fduan.vip.js%2C%20tag%3D%E7%AB%AF%E4%BC%A0%E5%AA%92Pro%2C%20update-interval%3D86400%2C%20opt-parser%3Dtrue%2C%20enabled%3Dtrue%22%0A%20%20%20%20%5D%0A%7D%0A"><em>duan.vip.js</em></a></td><td>ddgksf2013</td>
+		<td > 10 </td> <td > <s>端传媒VIP[已失效]</s> </td> <td ><a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%22rewrite_remote%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22https%3A%2F%2Fddgksf2013.top%2Fscripts%2Fduan.vip.js%2C%20tag%3D%E7%AB%AF%E4%BC%A0%E5%AA%92Pro%2C%20update-interval%3D86400%2C%20opt-parser%3Dtrue%2C%20enabled%3Dtrue%22%0A%20%20%20%20%5D%0A%7D%0A"><em>duan.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 <tr>
 		<td > 11 </td> <td > Goodbility会员 </td> <td ><a href="https://ddgksf2013.top/scripts/goodbility.vip.js"><em>goodbility.vip.js</em></a></td><td>ddgksf2013</td>
