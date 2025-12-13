@@ -58,7 +58,7 @@
 		<td > 5 </td> <td > <s>财新周刊VIP</s><br>官方停止运营 </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 6 </td> <td > Nicegram高级版<br> [也可用Swiftgram]</td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td>
+		<td > 6 </td> <td > Nicegram高级版<br> </td> <td ><a href="https://ddgksf2013.top/scripts/nicegram.vip.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 7 </td> <td > RevenueCat多合一 </td> <td ><a href="https://ddgksf2013.top/scripts/revenuecat.vip.js"><em>revenuecat.js</em></a></td><td>ddgksf2013</td>
