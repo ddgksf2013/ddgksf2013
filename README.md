@@ -137,7 +137,7 @@
 		<td > 19 </td> <td > 起点去广告[卸载重装] </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  
     </tr>
 	<tr>
-		<td > 20 </td> <td > 随手记去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/SuiShouJi.conf"><em>SuiShouJi.conf</em></a></td><td>ddgksf2013</td>  
+		<td > 20 </td> <td > 随手记去广告 </td> <td ><a href="https://ddgksf2013.top/scripts/suishouji.ads.js"><em>SuiShouJi.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td > 21 </td> <td > Bing首页简化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/BingSimplify.conf"><em>BingSimplify.conf</em></a></td><td>ddgksf2013</td>  
