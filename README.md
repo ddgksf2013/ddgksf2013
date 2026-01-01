@@ -188,7 +188,7 @@
 		<td > 36 </td> <td > 小宇宙FM去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/XiaoYuZhouAds.conf"><em>XiaoYuZhouAds.conf</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
-		<td > 37 </td> <td > 车来了净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/CheLaiLeAds.cof"><em>CheLaiLeAds.cof</em></a></td><td>ddgksf2013</td>  
+		<td > 37 </td> <td > 车来了净化 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/CheLaiLeAds.conf"><em>CheLaiLeAds.cof</em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
 		<td > 38 </td> <td > 墨迹天气去广告 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/MoJiWeatherAds.conf"><em>MoJiWeatherAds.conf</em></a></td><td>ddgksf2013</td>  
