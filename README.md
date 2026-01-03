@@ -52,7 +52,7 @@
 		<td > 3</td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td ><strong>酷我SVIP+净化</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/mykkmusic.vip.js"><em>kuwomusic.vip.js</em></a></td><td>ddgksf2013</td>
+		<td > 4 </td> <td ><strong>酷我SVIP+净化</strong> </td> <td ><a href="https://ddgksf2013.top/scripts/kkmusic.vip.js"><em>kuwomusic.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td > <s>财新周刊VIP</s><br>官方停止运营 </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td>
@@ -70,7 +70,7 @@
 		<td > 9 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
     </tr>
 	<tr>
-		<td > 10 </td> <td > <s>端传媒VIP[已失效]</s> </td> <td ><a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%22rewrite_remote%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22https%3A%2F%2Fddgksf2013.top%2Fscripts%2Fduan.vip.js%2C%20tag%3D%E7%AB%AF%E4%BC%A0%E5%AA%92Pro%2C%20update-interval%3D86400%2C%20opt-parser%3Dtrue%2C%20enabled%3Dtrue%22%0A%20%20%20%20%5D%0A%7D%0A"><em>duan.vip.js</em></a></td><td>ddgksf2013</td>
+		<td > 10 </td> <td > <s>端传媒VIP[已失效]</s> </td> <td ><a href="https://ddgksf2013.top/scripts/duan.vip.js"><em>duan.vip.js</em></a></td><td>ddgksf2013</td>
     </tr>
 <tr>
 		<td > 11 </td> <td > Goodbility会员 </td> <td ><a href="https://ddgksf2013.top/scripts/goodbility.vip.js"><em>goodbility.vip.js</em></a></td><td>ddgksf2013</td>
@@ -83,7 +83,7 @@
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
-		<td > 2 </td> <td > <strong>墨鱼去开屏2.0</strong> </td> <td ><a href="https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%22rewrite_remote%22%3A%20%5B%0A%20%20%20%20%20%20%20%20%22https%3A%2F%2Fddgksf2013.top%2Frewrite%2FStartUpAds.conf%2C%20tag%3D%E5%A2%A8%E9%B1%BC%E5%8E%BB%E5%BC%80%E5%B1%8F2.0%40ddgksf2013%2C%20img-url%3Dhttps%3A%2F%2Fgithub.com%2FKoolson%2FQure%2Fraw%2Fmaster%2FIconSet%2Fmini%2FAdvertising.png%2C%20update-interval%3D86400%2C%20opt-parser%3Dfalse%2C%20enabled%3Dtrue%22%0A%20%20%20%20%5D%0A%7D%0A"><em>StartUpAds.conf</em></a></td><td>ddgksf2013</td>
+		<td > 2 </td> <td > <strong>墨鱼去开屏2.0</strong> </td> <td ><a href="https://ddgksf2013.top/rewrite/StartUpAds.conf"><em>StartUpAds.conf</em></a></td><td>ddgksf2013</td>
     </tr>
     <tr>
 		<td > 3 </td> <td > 油管广告屏蔽<br><strong><em>视频自动PIP+背景播放</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  
@@ -146,7 +146,7 @@
 		<td > 22 </td> <td >[新版失效]<s> 优酷净化[卸载重装]</s> </td> <td ><s> <a href="https://gist.githubusercontent.com/ddgksf2013/5b431857f8b88acbc7ac2453a21e676a/raw/youku.adblock.js"><em>youku.adblock.js</em></a></s> </td><td>ddgksf2013</td>  
     </tr>
     <tr>
-		<td > 23 </td> <td > <s>百度地图净化[卸载重装]</s> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf"><em><s>baidumap.conf</s></em></a></td><td>ddgksf2013</td>  
+		<td > 23 </td> <td > <s>百度地图净化[卸载重装]</s> </td> <td ><a href="https://ddgksf2013.top/scripts/bdmap.ads.js"><em><s>baidumap.conf</s></em></a></td><td>ddgksf2013</td>  
     </tr>
 <tr>
 		<td > 24 </td> <td > 皮皮虾净化及去水印 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/bb1dadbd32f67c68772caebcc70b0a33/raw/pipixia.adblock.js"><em>pipixia.adblock.js</em></a></td><td>Liquor030</td>  
@@ -167,7 +167,7 @@
 		<td > 29 </td> <td > 彩云天气净化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/CaiYunAds.conf"><em>CaiYunAds.conf</em></a></td><td>ddgksf2013</td> 
     </tr>
 	<tr>
-		<td > 30 </td> <td > <strong>知乎去广告[墨鱼自用版]</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/d43179d848586d561dbb968dee93bae8/raw/Zhihu.Adblock.js"><em>Zhihu.Adblock.js</em></a></td><td>ddgksf2013<br>blackmatrix7</td>  
+		<td > 30 </td> <td > <strong>知乎去广告[墨鱼自用版]</strong> </td> <td ><a href="https://ddgksf2013.top/scripts/zhihu.ads.js"><em>Zhihu.Adblock.js</em></a></td><td>ddgksf2013<br>blackmatrix7</td>  
     </tr>
 	<tr>
 		<td > 31 </td> <td > 贴吧去广告[JQ版] </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TieBaAds.conf"><em>Tieba_Ads.conf</em></a></td><td>ddgksf2013<br>app2smile</td>  
