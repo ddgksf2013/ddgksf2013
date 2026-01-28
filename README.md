@@ -32,7 +32,7 @@
 
 ## 2️⃣QuantumultX 分流：
 * 网易云音乐分流 [*NeteaseMusic.list*](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list)
-* 自用 ChatGPT 分流 [*OpenAi.list*](https://gist.githubusercontent.com/ddgksf2013/cb4121e8b5c5d865cc949cb8120320c4/raw/Ai.yaml)
+* 自用 ChatGPT 分流 [*OpenAi.list*](https://ddgksf2013.top/filter/Ai.yaml)
 * IP隐藏の分流[不建议使用] [*Anti-ip.list*](https://github.com/ddgksf2013/Filter/raw/master/anti-ip-attribution.list)
 * Emby分流 [*Emby.list*](https://github.com/ddgksf2013/Filter/blob/master/Emby.list)
 * 苹果手机Apple Intelligence 分流[*AppleIntelligence.list*](https://raw.githubusercontent.com/ddgksf2013/Filter/refs/heads/master/AppleIntelligence.list)
